@@ -1129,19 +1129,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HASANZADE\\.nuget\\packages\\": {}
+    "C:\\Users\\hasan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HASANZADE\\Desktop\\Working Area\\AdsForMoney\\AdsForMoney\\AdsForMoney.csproj",
+      "projectUniqueName": "C:\\Users\\hasan\\Desktop\\Ads\\AdsForMoney.csproj",
       "projectName": "AdsForMoney",
-      "projectPath": "C:\\Users\\HASANZADE\\Desktop\\Working Area\\AdsForMoney\\AdsForMoney\\AdsForMoney.csproj",
-      "packagesPath": "C:\\Users\\HASANZADE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HASANZADE\\Desktop\\Working Area\\AdsForMoney\\AdsForMoney\\obj\\",
+      "projectPath": "C:\\Users\\hasan\\Desktop\\Ads\\AdsForMoney.csproj",
+      "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hasan\\Desktop\\Ads\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HASANZADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1204,7 +1204,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

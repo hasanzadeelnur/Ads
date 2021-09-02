@@ -47,7 +47,7 @@ namespace AdsForMoney.Libs
 
 
             var stream = file.OpenReadStream();
-            var exsitpath = Path.Combine(Directory.GetCurrentDirectory() + "/wwwroot/uploads/" + folder);
+            var exsitpath = Path.Combine(Directory.GetCurrentDirectory() + "/wwwroot/uploads/");
             if (!Directory.Exists(exsitpath))
                 Directory.CreateDirectory(exsitpath);
             var path = Path.Combine(exsitpath, filename);
@@ -57,7 +57,7 @@ namespace AdsForMoney.Libs
 
 
             filestream.Close();
-            return path;
+            return filename;
         }
         public static string IFormSaveLocal(IFormFile file, string folder, string filename = null)
         {
